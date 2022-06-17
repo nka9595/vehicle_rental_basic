@@ -1,0 +1,8 @@
+com/vehicle/rent/rental/BranchServiceTest.java
+ com.vehicle.rent.rental.BranchServiceTest
+com/vehicle/rent/rental/BookServiceTest.java
+ com.vehicle.rent.rental.BookServiceTest
+com/vehicle/rent/rental/RentalApplicationTests.java
+ com.vehicle.rent.rental.RentalApplicationTests
+com/vehicle/rent/rental/VehicleServiceTest.java
+ com.vehicle.rent.rental.VehicleServiceTest
